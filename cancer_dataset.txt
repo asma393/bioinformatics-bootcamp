@@ -1,0 +1,8 @@
+Gene Mutation Chromosome
+TP53 R175H chr17
+BRCA1 185delAG chr17
+EGFR L858R chr7
+KRAS G12D chr12
+TP53 R248Q chr17
+TP53 R273H chr17
+EGFR T790M chr7
